@@ -1,4 +1,4 @@
-# Engenharia_de_Prompt_e_Aplicacao_Al
+# Engenharia_de_Prompt_e_Aplicacao_Ia
 <br>
 
 ## 🖥️Disciplina curso ADS 
