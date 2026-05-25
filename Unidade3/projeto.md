@@ -106,8 +106,25 @@ As tarefas foram divididas entre os integrantes da equipe da seguinte forma:
 
 ## 🚀 Próximos Passos
 
+### Melhorias Sugeridas
+
+- Melhorar a organização do código em arquivos separados;
+
+- Aprimorar e corrigir problemas na remoção e adição de livros;
+
+- Aprimorar o sistema de notificações para que o usuário possa configurar da sua preferência;
+
+- Adicionar capas e ilustrações reais dos livros para enriquecer o visual da bibliotéca.
+
+
+### Evoluções Futuras
+
 - Implementar integração a apps de leitura como Kindle;
 
 - Adicionar autenticação de usuários;
 
-- Criar novas funcionalidades para o sistema(Ex: Visualizar histórico de leitura).
+- Criar novas funcionalidades para o sistema(Ex: Visualizar histórico de leitura);
+
+- Criar uma comunidade para que usuários possam compartilhar livros, reflexões e interagir;
+
+- Integrar APIs externas para recomendações inteligentes de livros.
